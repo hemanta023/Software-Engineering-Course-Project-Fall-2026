@@ -1,4 +1,7 @@
-# Software Engineering Assignment 2
+# Software Engineering Course Project, Fall 2026 
+
+## Author
+Hemant Thapa
 
 ## Background
 This project is developed as part of a software engineering course. The purpose is to create a system that supports gameplay between players and the Game Master (GM).
