@@ -23,6 +23,15 @@ An event where players participate in the game.
 ## Requirements
 
 ### User Stories
+### Player Requirements
+
+- As a player, I want to roll dice so that I can determine the outcome of my actions.
+- As a player, I want to view my previous dice rolls so that I can track my game history.
+
+### GM Requirements
+
+- As a Game Master, I want to create game sessions so that players can join and play together.
+- As a Game Master, I want to see all players' dice rolls so that I can manage the game fairly.
 
 #### Player
 - As a player, I want to join a game session so that I can participate in the game.
